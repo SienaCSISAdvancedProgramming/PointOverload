@@ -1,6 +1,7 @@
 /**
- * Example PointOverload: a class demonstrating ad hoc polymorphism
- * by overloading constructors and the distance method.
+ * Example PointOverload: a class representing a point in the plane,
+ * demonstrating ad hoc polymorphism by overloading constructors and
+ * the distance method.
  *
  * @author Jim Teresco
  * Siena College, Computer Science 225, Spring 2017
